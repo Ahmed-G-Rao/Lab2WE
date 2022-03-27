@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+  }
+  li {
+    float: inline-start;
+  }
+  li a {
+    display: block;
+    padding: 15px;
+    background-color: #e9edc5;
+  }
+  h1{
+      color: blue;
+  }
+  p{
+      color:blueviolet
+  }
+  h2{
+      
+      color: chocolate;
+  }
+  #div1{
+    border: 5;
+    border-style: dashed;
+  }
+  img{
+      width: 1270px;
+      height: 500px;
+  }
+  #text_size{
+        font-size: 1.5em;
+  }
+  body{
+      background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max);
+      background-attachment: fixed;
+      background-size: cover;
+    }

@@ -1,0 +1,16 @@
+button{
+    background-color: aquamarine;
+    border: 2px;
+    border-style: dotted;
+    height: 30px;
+    width: 100px;
+    color: brown;
+}
+button:hover{
+    background-color: royalblue;
+    border: 5px;
+    border-style: solid;
+    height: 35px;
+    width: 110px;
+    color: cadetblue;
+}
